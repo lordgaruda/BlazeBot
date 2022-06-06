@@ -20,6 +20,9 @@ if __name__ == '__main__':
     # Post
     post_handler = CommandHandler('post', post)
     application.add_handler(post_handler)
+    # Test
+    test_handler = CommandHandler('test', test)
+    application.add_handler(test_handler)
 
 
     application.run_polling()

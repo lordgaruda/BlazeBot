@@ -49,15 +49,22 @@ devices = devices.split(',')
 
 # Start Command
 async def start(update: Update, context: CallbackContext.DEFAULT_TYPE):
+    if update.effective_chat.id != CHAT_ID:
+        await context.bot.send_message(update.effective_chat.id, text="Commands aren't supported here")
+        return
     mess_id = update.effective_message.message_id
     mess = '''
 Hello, I am BlazeBot.
 Use /help to know how to use me.
 '''
+
     await context.bot.send_message(CHAT_ID, reply_to_message_id=mess_id, text=mess)
 
 # Help Command
 async def help(update: Update, context: CallbackContext.DEFAULT_TYPE):
+    if update.effective_chat.id != CHAT_ID:
+        await context.bot.send_message(update.effective_chat.id, text="Commands aren't supported here")
+        return
     mess_id = update.effective_message.message_id
     mess = '''
 Helping guide for using me:
@@ -74,6 +81,9 @@ You can use any command without any arguments for help related to that command.
 
 # Post command
 async def post(update: Update, context: CallbackContext.DEFAULT_TYPE):
+    if update.effective_chat.id != CHAT_ID:
+        await context.bot.send_message(update.effective_chat.id, text="Commands aren't supported here")
+        return
     mess_id = update.effective_message.message_id
     help = f'''
 Use this command in following format to make post for your device.
@@ -130,3 +140,12 @@ Project Blaze v{database['BlazeVersion']} - OFFICIAL | Android 12L
 #Blaze #{codename} #Android12L #S
 '''
     await context.bot.send_photo(CHAT_ID, photo=open('images/blaze1.2.png', 'rb'), caption=mess, reply_to_message_id=mess_id, parse_mode='HTML')
+
+async def test(update: Update, context: CallbackContext.DEFAULT_TYPE):
+    if update.effective_chat.id != CHAT_ID:
+        await context.bot.send_message(update.effective_chat.id, text="Commands aren't supported here")
+        return
+    chat_id = update.effective_chat.id
+    mess_id = update.effective_message.message_id
+    user = update.effective_user.username
+    await context.bot.send_message(CHAT_ID, reply_to_message_id=mess_id, text="Message from supported group")
