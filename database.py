@@ -81,9 +81,9 @@ database = {
         "sgroup" : "https://t.me/ProjectBlazeGinkgo",
     },
     "alioth" : {
-        "device" : "Poco F3",
+        "device" : "Poco F3 / Mi 11x / Redmi K40",
         "maintainer" : "@AbrarNoob",
-        "sgroup" : "https://t.me/carrotgardenlavender",
+        "sgroup" : "https://t.me/carrotgardenalioth",
     },
     "a10" : {
         "device" : "",
