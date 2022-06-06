@@ -14,7 +14,7 @@ months = {
 }
 
 database = {
-    "BlazeVersion" : "1.1",
+    "BlazeVersion" : "1.2",
     "sweet" : {
         "device" : "Redmi Note 10 Pro/Max",
         "maintainer" : "@Ba_Sh_ArAT",
@@ -51,14 +51,14 @@ database = {
         "sgroup" : "https://t.me/projectblaze_RMX1921",
     },
     "vince" : {
-        "device" : "",
-        "maintainer" : "@",
-        "sgroup" : "",
+        "device" : "Redmi 5 Plus",
+        "maintainer" : "@ritvik_ch",
+        "sgroup" : "https://t.me/sigmaprojects",
     },
     "vayu" : {
-        "device" : "",
-        "maintainer" : "@",
-        "sgroup" : "",
+        "device" : "Poco X3 Pro",
+        "maintainer" : "@clhexftw",
+        "sgroup" : "https://t.me/clhex_chat",
     },
     "juice" : {
         "device" : "Poco M3/Redmi 9T/Redmi Note 4G/Redmi 9 Power",
@@ -96,9 +96,9 @@ database = {
         "sgroup" : "https://t.me/lemonkebab_support",
     },
     "X00T" : {
-        "device" : "",
-        "maintainer" : "@",
-        "sgroup" : "",
+        "device" : "Zenfone Max Pro M1",
+        "maintainer" : "@clhexftw",
+        "sgroup" : "https://t.me/clhex_chat",
     },
     "ysl" : {
         "device" : "Redmi Y2/S2",
@@ -111,9 +111,9 @@ database = {
         "sgroup" : "https://t.me/Project_Blaze",
     },
     "mido" : {
-        "device" : "",
-        "maintainer" : "@",
-        "sgroup" : "",
+        "device" : "Redmi Note 4",
+        "maintainer" : "@pbharadwaj_95",
+        "sgroup" : "https://t.me/midorandom",
     },
     "raphael" : {
         "device" : "Redmi K20 Pro / MI 9T Pro",
