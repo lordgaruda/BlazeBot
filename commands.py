@@ -115,7 +115,7 @@ Please make PR if you didn't.
     if codename in devices:
         pass
     else:
-        await content.bot.send_message(CHAT_ID, reply_to_message_id=mess_id, text=dmess, parse_mode='HTML', disable_web_page_preview=True)
+        await context.bot.send_message(CHAT_ID, reply_to_message_id=mess_id, text=dmess, parse_mode='HTML', disable_web_page_preview=True)
         return
     if dclog == None:
         pass
