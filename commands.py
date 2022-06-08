@@ -49,7 +49,7 @@ devices = devices.split(',')
 
 # Start Command
 async def start(update: Update, context: CallbackContext.DEFAULT_TYPE):
-    if update.effective_chat.id != CHAT_ID:
+    if str(update.effective_chat.id) not in CHAT_ID :
         await context.bot.send_message(update.effective_chat.id, text="Commands aren't supported here")
         return
     mess_id = update.effective_message.message_id
@@ -62,7 +62,7 @@ Use /help to know how to use me.
 
 # Help Command
 async def help(update: Update, context: CallbackContext.DEFAULT_TYPE):
-    if update.effective_chat.id != CHAT_ID:
+    if str(update.effective_chat.id) not in CHAT_ID :
         await context.bot.send_message(update.effective_chat.id, text="Commands aren't supported here")
         return
     mess_id = update.effective_message.message_id
@@ -81,7 +81,7 @@ You can use any command without any arguments for help related to that command.
 
 # Post command
 async def post(update: Update, context: CallbackContext.DEFAULT_TYPE):
-    if update.effective_chat.id != CHAT_ID:
+    if str(update.effective_chat.id) not in CHAT_ID :
         await context.bot.send_message(update.effective_chat.id, text="Commands aren't supported here")
         return
     mess_id = update.effective_message.message_id
@@ -142,8 +142,11 @@ Project Blaze v{database['BlazeVersion']} - OFFICIAL | Android 12L
     await context.bot.send_photo(CHAT_ID, photo=open('images/blaze1.2.png', 'rb'), caption=mess, reply_to_message_id=mess_id, parse_mode='HTML')
 
 async def test(update: Update, context: CallbackContext.DEFAULT_TYPE):
-    if update.effective_chat.id != CHAT_ID:
-        await context.bot.send_message(update.effective_chat.id, text="Commands aren't supported here")
+    chat_id = str(update.effective_chat.id)
+    print(f"Type of chat_id is '{chat_id}'.")
+    print(f"Type of CHAT_ID is '{CHAT_ID}'.")
+    if str(update.effective_chat.id) not in CHAT_ID :
+        await context.bot.send_message(chat_id, text="Commands aren't supported here")
         return
     chat_id = update.effective_chat.id
     mess_id = update.effective_message.message_id
