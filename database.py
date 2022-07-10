@@ -14,7 +14,7 @@ months = {
 }
 
 database = {
-    "BlazeVersion" : "1.2",
+    "BlazeVersion" : "1.3",
     "sweet" : {
         "device" : "Redmi Note 10 Pro/Max",
         "maintainer" : "@Ba_Sh_ArAT",
@@ -35,10 +35,10 @@ database = {
         "maintainer" : "@AlCoptan99",
         "sgroup" : "https://t.me/coptan_s_projects",
     },
-    "mi439" : {
-        "device" : "",
-        "maintainer" : "@",
-        "sgroup" : "",
+    "Mi439" : {
+        "device" : "Mi439",
+        "maintainer" : "@blazey66",
+        "sgroup" : "https://t.me/+FameD-VCnSxkZDBh",
     },
     "surya" : {
         "device" : "POCO X3 NFC",
