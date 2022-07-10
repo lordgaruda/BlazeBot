@@ -20,11 +20,6 @@ database = {
         "maintainer" : "@Ba_Sh_ArAT",
         "sgroup" : "https://t.me/basharatbuilds",
     },
-    "santoni" : {
-        "device" : "Redmi 4/4X",
-        "maintainer" : "@EvilAnsh",
-        "sgroup" : "https://t.me/AnshPrjkt",
-    },
     "onclite" : {
         "device" : "Redmi 7/Y3",
         "maintainer" : "@afterallafk & @ganesh314159",
