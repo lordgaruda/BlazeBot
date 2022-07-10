@@ -70,11 +70,6 @@ database = {
         "maintainer" : "@SKORPION_29",
         "sgroup" : "https://t.me/SKORPION_29Builds",
     },
-    "tissot" : {
-        "device" : "",
-        "maintainer" : "@",
-        "sgroup" : "",
-    },
     "ginkgo" : {
         "device" : "Redmi Note 8/8T",
         "maintainer" : "@Azvxyx",
@@ -84,21 +79,6 @@ database = {
         "device" : "Poco F3 / Mi 11x / Redmi K40",
         "maintainer" : "@AbrarNoob",
         "sgroup" : "https://t.me/carrotgardenalioth",
-    },
-    "a10" : {
-        "device" : "",
-        "maintainer" : "@",
-        "sgroup" : "",
-    },
-    "lemonkebab" : {
-        "device" : "OnePlus 9r/8T",
-        "maintainer" : "@RDS_07",
-        "sgroup" : "https://t.me/lemonkebab_support",
-    },
-    "X00T" : {
-        "device" : "Zenfone Max Pro M1",
-        "maintainer" : "@clhexftw",
-        "sgroup" : "https://t.me/clhex_chat",
     },
     "ysl" : {
         "device" : "Redmi Y2/S2",
@@ -112,12 +92,22 @@ database = {
     },
     "mido" : {
         "device" : "Redmi Note 4",
-        "maintainer" : "@pbharadwaj_95",
+        "maintainer" : "@pbharadwaj_95 & @HyperPower17",
         "sgroup" : "https://t.me/midorandom",
     },
     "raphael" : {
         "device" : "Redmi K20 Pro / MI 9T Pro",
         "maintainer" : "@laz_man",
         "sgroup" : "https://t.me/genhode",
-    }
+    },
+    "violet" : {
+        "device" : "Redmi Note 7 Pro",
+        "maintainer" : "@Rdx55",
+        "sgroup" : "https://t.me/Unofficial_violet",
+    },
+    "RM6785" : {
+        "device" : "Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
+        "maintainer" : "@P_AA_ii_N",
+        "sgroup" : "https://t.me/unofficial_PAiNsHUB",
+    },
 }
