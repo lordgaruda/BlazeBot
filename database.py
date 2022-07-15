@@ -105,11 +105,6 @@ database = {
         "maintainer" : "@P_AA_ii_N",
         "sgroup" : "https://t.me/unofficial_PAiNsHUB",
     },
-    "begonia" : {
-        "device" : "Redmi Note 8 Pro",
-        "maintainer" : "@ryuKizuha",
-        "sgroup" : "https://t.me/nobi_tta",
-    },
     "lava" : {
         "device" : "Redmi 9/Poco M2",
         "maintainer" : "@orkunergun",
