@@ -114,5 +114,10 @@ database = {
         "device" : "Redmi 9/Poco M2",
         "maintainer" : "@orkunergun",
         "sgroup" : "",
+    },
+    "spes" : {
+        "device" : "Redmi Note 11",
+        "maintainer" : "@sayann70",
+        "sgroup" : "https://t.me/+k6wGamr3-H1jNjVl",
     }
 }
