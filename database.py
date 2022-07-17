@@ -108,7 +108,7 @@ database = {
     "lava" : {
         "device" : "Redmi 9/Poco M2",
         "maintainer" : "@orkunergun",
-        "sgroup" : "",
+        "sgroup" : "https://t.me/projectblaze_lava",
     },
     "spes" : {
         "device" : "Redmi Note 11",
