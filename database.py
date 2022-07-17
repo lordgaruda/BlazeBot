@@ -114,5 +114,10 @@ database = {
         "device" : "Redmi Note 11",
         "maintainer" : "@sayann70",
         "sgroup" : "https://t.me/+k6wGamr3-H1jNjVl",
+    },
+    "r5x" : {
+        "device" : "Realme 5 Series",
+        "maintainer" : "@JaswantTeja",
+        "sgroup" : "https://t.me/ProjectBlaze5Series",
     }
 }
