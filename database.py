@@ -67,7 +67,7 @@ database = {
     },
     "ginkgo" : {
         "device" : "Redmi Note 8/8T",
-        "maintainer" : "@Azvxyx",
+        "maintainer" : "@NTRX_Wikrama",
         "sgroup" : "https://t.me/ProjectBlazeGinkgo",
     },
     "alioth" : {
