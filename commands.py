@@ -126,7 +126,7 @@ Please make PR if you didn't.
     year = current_time.year
     date = f" {month}-{day}-{year} "
     mess = f'''
-Project Blaze v1.3 - OFFICIAL | Android 12L
+Project Blaze v1.4 - OFFICIAL | Android 12L
 📲 : {database[codename]['device']} ({codename})
 📅 : {date}
 🧑‍💼 : {database[codename]['maintainer']}
