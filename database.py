@@ -119,5 +119,10 @@ database = {
         "device" : "Realme 5 Series",
         "maintainer" : "@JaswantTeja",
         "sgroup" : "https://t.me/ProjectBlaze5Series",
+    },
+    "chime" : {
+        "device" : "Redmi 9T / Poco M3",
+        "maintainer" : "@Chikoni_uwu",
+        "sgroup" : "https://t.me/chikoniroms",
     }
 }
