@@ -89,15 +89,13 @@ async def post(update: Update, context: CallbackContext.DEFAULT_TYPE):
     help = f'''
 Use this command in following format to make post for your device.
 
-/post device_codename device_changelog_link
+/post device_codename
 
 device_codename is codename for your device.
 Please use UpperCase letters if you did same <a href="{gdevurl}">here</a>
 
-device_changelog_link is telegraph link of changelog for your device.
-
 e.g. :
-/post onclite https://telegra.ph/Changelogs-11-05-08
+/post onclite
 '''
     dmess = f'''
 Sorry, I couldn't find your device codename <a href="{gdevurl}" >here</a>.
@@ -105,10 +103,8 @@ Please make PR if you didn't.
 '''
     arg = context.args
     codename = None
-    dclog = None
     try:
         codename = arg[0]
-        dclog = arg[1]
     except IndexError:
         await context.bot.send_message(CHAT_ID, reply_to_message_id=mess_id, text=help, parse_mode='HTML', disable_web_page_preview=True)
         return
@@ -117,8 +113,14 @@ Please make PR if you didn't.
     else:
         await context.bot.send_message(CHAT_ID, reply_to_message_id=mess_id, text=dmess, parse_mode='HTML', disable_web_page_preview=True)
         return
-    if dclog == None:
-        pass
+    dclog = f"https://raw.githubusercontent.com/ProjectBlaze/official_devices/12.1/device/{codename}.txt"
+    dcstatus = requests.head(dclog).status_code
+    dcmess = f'''
+Please make device changelog file for {codename} <a href="https://github.com/ProjectBlaze/official_devices/tree/12.1/device">here.</a>
+'''
+    if dcstatus == 404:
+        await context.bot.send_message(CHAT_ID, reply_to_message_id=mess_id, text=dcmess, parse_mode='HTML', disable_web_page_preview=True)
+        return
     current_time = datetime.datetime.now(pytz.timezone('Asia/Kolkata'))
     day = current_time.day
     month = current_time.month
