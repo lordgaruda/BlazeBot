@@ -124,5 +124,10 @@ database = {
         "device" : "Redmi 9T / Poco M3",
         "maintainer" : "@Chikoni_uwu",
         "sgroup" : "https://t.me/chikoniroms",
+    },
+    "cactus" : {
+        "device" : "Redmi 6a",
+        "maintainer" : "@Chikoni_uwu",
+        "sgroup" : "https://t.me/chikoniroms",
     }
 }
