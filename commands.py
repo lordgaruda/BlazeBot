@@ -142,7 +142,7 @@ Please make device changelog file for {codename} <a href="https://github.com/Pro
 
 #Blaze #{codename} #Android12L #S
 '''
-    await context.bot.send_photo(CHAT_ID, photo=open('images/blaze1.2.png', 'rb'), caption=mess, reply_to_message_id=mess_id, parse_mode='HTML')
+    await context.bot.send_photo(CHAT_ID, photo=open('images/blaze1.5.png', 'rb'), caption=mess, reply_to_message_id=mess_id, parse_mode='HTML')
 
 # Upload command
 async def upload(update: Update, context: CallbackContext.DEFAULT_TYPE):
