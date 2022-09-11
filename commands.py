@@ -31,12 +31,6 @@ with open(f'{HOME}/secrets.txt', 'r') as file:
     sfpass = content[1]
     CHAT_ID = content[2]
 
-# Host key for pysftp
-keydata = b"""AAAAC3NzaC1lZDI1NTE5AAAAIOQD35Ujalhh+JJkPvMckDlhu4dS7WH6NsOJ15iGCJLC"""
-key = paramiko.Ed25519Key(data=decodebytes(keydata))
-cnopts = pysftp.CnOpts()
-cnopts.hostkeys.add('frs.sourceforge.net', 'ssh-ed25519', key)
-
 # Official device list
 devurl = "https://raw.githubusercontent.com/ProjectBlaze/vendor_blaze/12.1/blaze.devices"
 gdevurl = "https://github.com/ProjectBlaze/vendor_blaze/blob/12.1/blaze.devices"
@@ -215,7 +209,7 @@ Size : {size}
 Target : 🌐 <a href="{target_url}">projectblaze/{codename}</a> 🌐
 '''
     await context.bot.edit_message_text(chat_id=chat_id, message_id=bmess_id, text=mess2, parse_mode='HTML', disable_web_page_preview=True)
-    with pysftp.Connection('frs.sourceforge.net', username='ganesh314159', password=sfpass, cnopts=cnopts) as sftp:
+    with pysftp.Connection('frs.sourceforge.net', username='ganesh314159', password=sfpass) as sftp:
         with sftp.cd(f'/home/frs/project/projectblaze/{codename}'):
             sftp.put(f'{file_path}')
     mess3 = f'''
