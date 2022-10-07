@@ -107,7 +107,7 @@ Please make PR if you didn't.
     else:
         await context.bot.send_message(CHAT_ID, reply_to_message_id=mess_id, text=dmess, parse_mode='HTML', disable_web_page_preview=True)
         return
-    dclog = f"https://raw.githubusercontent.com/ProjectBlaze/official_devices/12.1/device/{codename}.txt"
+    dclog = f"https://raw.githubusercontent.com/ProjectBlaze/official_devices/13/device/{codename}.txt"
     dcstatus = requests.head(dclog).status_code
     dcmess = f'''
 Please make device changelog file for {codename} <a href="https://github.com/ProjectBlaze/official_devices/tree/12.1/device">here.</a>
