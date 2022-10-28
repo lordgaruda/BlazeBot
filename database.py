@@ -129,5 +129,10 @@ database = {
         "device" : "Redmi 6a",
         "maintainer" : "@Chikoni_uwu",
         "sgroup" : "https://t.me/chikoniroms",
+    },
+    "RMX2081" : {
+        "device" : "Realme X3",
+        "maintainer" : "@A_k_0_5",
+        "sgroup" : "https://t.me/Ak_builds",
     }
 }
