@@ -6,7 +6,7 @@ from base64 import decodebytes
 from database import *
 from pathlib import Path
 from utils.updown import *
-import pathlib 
+import pathlib
 import logging
 import pysftp
 import gdown
@@ -23,7 +23,7 @@ import pytz
 
 
 # Some Global Variables
-HOME = os.path.expanduser("~") 
+HOME = os.path.expanduser("~")
 with open(f'{HOME}/secrets.txt', 'r') as file:
     content = file.read().replace('\n', ',')
     content = content.split(',')
@@ -32,8 +32,8 @@ with open(f'{HOME}/secrets.txt', 'r') as file:
     CHAT_ID = content[2]
 
 # Official device list
-devurl = "https://raw.githubusercontent.com/ProjectBlaze/vendor_blaze/12.1/blaze.devices"
-gdevurl = "https://github.com/ProjectBlaze/vendor_blaze/blob/12.1/blaze.devices"
+devurl = "https://raw.githubusercontent.com/ProjectBlaze/vendor_blaze/13/blaze.devices"
+gdevurl = "https://github.com/ProjectBlaze/vendor_blaze/blob/13/blaze.devices"
 req = requests.get(devurl)
 if req.status_code in [200]:
     devices = req.text
