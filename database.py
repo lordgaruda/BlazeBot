@@ -130,7 +130,7 @@ database = {
         "maintainer" : "@Chikoni_uwu",
         "sgroup" : "https://t.me/chikoniroms",
     },
-    "RMX2081" : {
+    "x3" : {
         "device" : "Realme X3",
         "maintainer" : "@A_k_0_5",
         "sgroup" : "https://t.me/Ak_builds",
