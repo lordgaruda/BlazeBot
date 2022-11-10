@@ -14,7 +14,7 @@ months = {
 }
 
 database = {
-    "BlazeVersion" : "2.0-RISE",
+    "BlazeVersion" : "2.1-NEW-VISION",
     "sweet" : {
         "device" : "Redmi Note 10 Pro/Max",
         "maintainer" : "@Ba_Sh_ArAT & @Aarav_x",
