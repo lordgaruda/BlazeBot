@@ -17,8 +17,8 @@ database = {
     "BlazeVersion" : "2.1-NEW-VISION",
     "sweet" : {
         "device" : "Redmi Note 10 Pro/Max",
-        "maintainer" : "@Ba_Sh_ArAT & @Aarav_x",
-        "sgroup" : "https://t.me/basharatbuilds",
+        "maintainer" : "@Aarav_x",
+        "sgroup" : "https://t.me/aarav_build_supports",
     },
     "onclite" : {
         "device" : "Redmi 7/Y3",
