@@ -134,5 +134,10 @@ database = {
         "device" : "Realme X3",
         "maintainer" : "@A_k_0_5",
         "sgroup" : "https://t.me/Ak_builds",
+    },
+    "Spacewar" : {
+        "device" : "Nothing Phone (1)",
+        "maintainer" : "@dhruvesh_23",
+        "sgroup" : "https://t.me/projectblaze_spacewar",
     }
 }
