@@ -16,9 +16,9 @@ months = {
 database = {
     "BlazeVersion" : "2.5",
     "sweet" : {
-        "device" : "Redmi Note 10 Pro/Max",
-        "maintainer" : "@Aarav_x",
-        "sgroup" : "https://t.me/aarav_build_supports",
+        "device" : "Redmi Note 10 Pro/Pro Max",
+        "maintainer" : "@afterallafk",
+        "sgroup" : "https://t.me/afterallafkbuilds",
     },
     "onclite" : {
         "device" : "Redmi 7/Y3",
