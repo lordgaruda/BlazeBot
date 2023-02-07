@@ -62,8 +62,8 @@ database = {
     },
     "miatoll" : {
         "device" : "Xiaomi POCO M2 Pro/Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 9 Pro Max",
-        "maintainer" : "@SKORPION_29",
-        "sgroup" : "https://t.me/SKORPION_29Builds",
+        "maintainer" : "@swapnilvicky & @athizzz15",
+        "sgroup" : "https://t.me/unofficialmiatoll",
     },
     "ginkgo" : {
         "device" : "Redmi Note 8/8T",
