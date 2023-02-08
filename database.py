@@ -139,5 +139,10 @@ database = {
         "device" : "Nothing Phone (1)",
         "maintainer" : "@dhruvesh_23",
         "sgroup" : "https://t.me/projectblaze_spacewar",
+    },
+    "beryllium" : {
+        "device" : "Poco F1",
+        "maintainer" : "@Excraze",
+        "sgroup" : "https://t.me/baka_hokage_builds_support",
     }
 }
