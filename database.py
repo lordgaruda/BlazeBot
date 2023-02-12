@@ -144,5 +144,10 @@ database = {
         "device" : "Poco F1",
         "maintainer" : "@Excraze",
         "sgroup" : "https://t.me/baka_hokage_builds_support",
+    },
+    "whyred" : {
+        "device" : "Redmi Note 5 Pro",
+        "maintainer" : "@Mizugameza05",
+        "sgroup" : "https://t.me/MizoWhyred",
     }
 }
