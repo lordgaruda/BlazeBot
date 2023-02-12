@@ -97,7 +97,7 @@ database = {
     },
     "violet" : {
         "device" : "Redmi Note 7 Pro",
-        "maintainer" : "@Rdx55",
+        "maintainer" : "@HyperPower17",
         "sgroup" : "https://t.me/Unofficial_violet",
     },
     "RM6785" : {
