@@ -154,5 +154,10 @@ database = {
         "device" : "Realme GT Neo 2",
         "maintainer" : "@cristianvaz",
         "sgroup" : "https://t.me/cristianvazsupport",
+    },
+    "RMX1851" : {
+        "device" : "Realme 3 Pro",
+        "maintainer" : "@Noobie_ashwani",
+        "sgroup" : "https://t.me/ashwanis_build",
     }
 }
