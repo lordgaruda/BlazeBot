@@ -149,5 +149,10 @@ database = {
         "device" : "Redmi Note 5 Pro",
         "maintainer" : "@Mizugameza05",
         "sgroup" : "https://t.me/MizoWhyred",
+    },
+    "bitra" : {
+        "device" : "Realme GT Neo 2",
+        "maintainer" : "@cristianvaz",
+        "sgroup" : "https://t.me/cristianvazsupport",
     }
 }
