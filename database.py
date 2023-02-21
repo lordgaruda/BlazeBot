@@ -22,7 +22,7 @@ database = {
     },
     "onclite" : {
         "device" : "Redmi 7/Y3",
-        "maintainer" : "@afterallafk & @InterStel1er",
+        "maintainer" : "@MrUn1corn",
         "sgroup" : "https://t.me/afterallafkbuilds",
     },
     "lavender" : {
