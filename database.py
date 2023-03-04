@@ -159,5 +159,10 @@ database = {
         "device" : "Realme 3 Pro",
         "maintainer" : "@Noobie_ashwani",
         "sgroup" : "https://t.me/ashwanis_build",
+    },
+    "RMX1971" : {
+        "device" : "Realme 5 Pro",
+        "maintainer" : "@AnilShebin",
+        "sgroup" : "https://t.me/Blaze_RMX1971",
     }
 }
