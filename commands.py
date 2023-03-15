@@ -129,7 +129,7 @@ Please make device changelog file for {codename} <a href="https://github.com/Pro
 
 ▪️ Changelog:</strong> <a href="https://github.com/ProjectBlaze/official_devices/blob/13/changelog.md" >Source</a> | <a href="{dclog}" >Device</a>
 ▪️ <a href="https://www.projectblaze.live/" >Download</a>
-▪️ <a href="https://t.me/projectblaze/60700" >Screenshots</a>
+▪️ <a href="https://t.me/projectblaze/65408" >Screenshots</a>
 ▪️ <a href="{database[codename]['sgroup']}" >Support Group</a>
 ▪️ <a href="https://t.me/projectblaze" >Community Chat</a>
 ▪️ <a href="https://t.me/projectblazeupdates" >Updates Channel</a>
