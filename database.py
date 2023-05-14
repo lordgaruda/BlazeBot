@@ -17,7 +17,7 @@ database = {
     "BlazeVersion" : "2.7",
     "sweet" : {
         "device" : "Redmi Note 10 Pro/Pro Max",
-        "maintainer" : "@afterallafk",
+        "maintainer" : "@pbharadwaj_95",
         "sgroup" : "https://t.me/afterallafkbuilds",
     },
     "onclite" : {
@@ -157,8 +157,8 @@ database = {
     },
     "RMX1851" : {
         "device" : "Realme 3 Pro",
-        "maintainer" : "@Noobie_ashwani",
-        "sgroup" : "https://t.me/ashwanis_build",
+        "maintainer" : "@AllForrOne",
+        "sgroup" : "https://t.me/vanshprojects",
     },
     "RMX1971" : {
         "device" : "Realme 5 Pro",
