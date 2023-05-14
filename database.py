@@ -92,8 +92,8 @@ database = {
     },
     "raphael" : {
         "device" : "Redmi K20 Pro / MI 9T Pro",
-        "maintainer" : "@karaannn",
-        "sgroup" : "https://t.me/genhodee",
+        "maintainer" : "@pbharadwaj_95",
+        "sgroup" : "https://t.me/octavi_sweet_raphael",
     },
     "violet" : {
         "device" : "Redmi Note 7 Pro",
