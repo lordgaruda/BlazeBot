@@ -164,5 +164,15 @@ database = {
         "device" : "Realme 5 Pro",
         "maintainer" : "@AnilShebin",
         "sgroup" : "https://t.me/Blaze_RMX1971",
+    },
+    "kebab" : {
+        "device" : "Oneplus 8T",
+        "maintainer" : "@Dawfuk",
+        "sgroup" : "https://t.me/DawfukSpace",
+    },
+    "lemonades" : {
+        "device" : "Oneplus 9R",
+        "maintainer" : "@Dawfuk",
+        "sgroup" : "https://t.me/DawfukSpace",
     }
 }
