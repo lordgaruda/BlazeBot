@@ -23,6 +23,9 @@ if __name__ == '__main__':
     # Upload
     upload_handler = CommandHandler('upload', upload)
     application.add_handler(upload_handler)
+    # OpenAI
+    openai_handler = MessageHandler(filters.TEXT & (~filters.COMMAND), chat)
+    application.add_handler(openai_handler)
     # Test
     test_handler = CommandHandler('test', test)
     application.add_handler(test_handler)
