@@ -117,8 +117,8 @@ database = {
     },
     "r5x" : {
         "device" : "Realme 5 Series",
-        "maintainer" : "@JaswantTeja",
-        "sgroup" : "https://t.me/ProjectBlaze5Series",
+        "maintainer" : "@Chaitanyakm",
+        "sgroup" : "https://t.me/chaitanyabuildsrealme",
     },
     "chime" : {
         "device" : "Redmi 9T / Poco M3",
