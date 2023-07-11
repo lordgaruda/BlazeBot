@@ -22,8 +22,8 @@ database = {
     },
     "onclite" : {
         "device" : "Redmi 7/Y3",
-        "maintainer" : "@MrUn1corn",
-        "sgroup" : "https://t.me/afterallafkbuilds",
+        "maintainer" : "@Noviceyash",
+        "sgroup" : "https://t.me/oncliteCommonGroup",
     },
     "lavender" : {
         "device" : "Redmi Note 7/7s",
