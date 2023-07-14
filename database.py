@@ -174,5 +174,10 @@ database = {
         "device" : "Oneplus 9R",
         "maintainer" : "@Dawfuk",
         "sgroup" : "https://t.me/DawfukSpace",
+    },
+    "haydn" : {
+        "device" : "Xiaomi 11X Pro",
+        "maintainer" : "@YuvrajMehta",
+        "sgroup" : "https://t.me/HaydnSupport",
     }
 }
