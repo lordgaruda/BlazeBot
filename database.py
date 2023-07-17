@@ -105,10 +105,10 @@ database = {
         "maintainer" : "@P_AA_ii_N",
         "sgroup" : "https://t.me/unofficial_PAiNsHUB",
     },
-    "lava" : {
-        "device" : "Redmi 9/Poco M2",
-        "maintainer" : "@orkunergun",
-        "sgroup" : "https://t.me/projectblaze_lava",
+    "lancelot" : {
+        "device" : "Redmi 9",
+        "maintainer" : "@burhanverse & @acex88",
+        "sgroup" : "https://t.me/projectblaze_lancelot",
     },
     "spes" : {
         "device" : "Redmi Note 11",
