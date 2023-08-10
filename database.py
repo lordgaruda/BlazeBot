@@ -17,8 +17,8 @@ database = {
     "BlazeVersion" : "2.9",
     "sweet" : {
         "device" : "Redmi Note 10 Pro/Pro Max",
-        "maintainer" : "@im_aarav67",
-        "sgroup" : "https://t.me/sweet_paradisee",
+        "maintainer" : "@aarav_x",
+        "sgroup" : "https://t.me/sweet_paradiseeee",
     },
     "onclite" : {
         "device" : "Redmi 7/Y3",
