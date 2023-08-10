@@ -151,9 +151,9 @@ database = {
         "sgroup" : "https://t.me/MizoWhyred",
     },
     "bitra" : {
-        "device" : "Realme GT Neo 2",
-        "maintainer" : "@cristianvaz",
-        "sgroup" : "https://t.me/cristianvazsupport",
+        "device" : "Realme GT Neo 2 5G",
+        "maintainer" : "@UNLOK_18",
+        "sgroup" : "https://t.me/Zeus_Projekts_Dis",
     },
     "RMX1851" : {
         "device" : "Realme 3 Pro",
