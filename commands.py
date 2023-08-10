@@ -136,14 +136,14 @@ Please make device changelog file for {codename} <a href="https://github.com/Pro
 
 ▪️ Changelog:</strong> <a href="https://github.com/ProjectBlaze/official_devices/blob/13/changelog.md" >Source</a> | <a href="{dclog}" >Device</a>
 ▪️ <a href="https://www.projectblaze.in/" >Download</a>
-▪️ <a href="https://t.me/projectblaze/70386" >Screenshots</a>
+▪️ <a href="https://t.me/projectblaze/75356" >Screenshots</a>
 ▪️ <a href="{database[codename]['sgroup']}" >Support Group</a>
 ▪️ <a href="https://t.me/projectblaze" >Community Chat</a>
 ▪️ <a href="https://t.me/projectblazeupdates" >Updates Channel</a>
 
 #Blaze #{codename} #Android13 #T
 '''
-    await context.bot.send_photo(CHAT_ID, photo=open('images/blaze2.8.png', 'rb'), caption=mess, reply_to_message_id=mess_id, parse_mode='HTML')
+    await context.bot.send_photo(CHAT_ID, photo=open('images/blaze2.9.png', 'rb'), caption=mess, reply_to_message_id=mess_id, parse_mode='HTML')
 
 # Upload command
 async def upload(update: Update, context: CallbackContext.DEFAULT_TYPE):
