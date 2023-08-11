@@ -36,9 +36,9 @@ database = {
         "sgroup" : "https://t.me/+FameD-VCnSxkZDBh",
     },
     "surya" : {
-        "device" : "POCO X3 NFC",
-        "maintainer" : "@MrTechnoStart",
-        "sgroup" : "https://t.me/TechnoStartUpdates",
+        "device" : "POCO X3",
+        "maintainer" : "@Muichir09",
+        "sgroup" : "https://t.me/projectblazesurya",
     },
     "RMX1921" : {
         "device" : "Realme XT",
