@@ -107,8 +107,8 @@ database = {
     },
     "lancelot" : {
         "device" : "Redmi 9",
-        "maintainer" : "@burhanverse & @acex88",
-        "sgroup" : "https://t.me/projectblaze_lancelot",
+        "maintainer" : "@acex88",
+        "sgroup" : "https://t.me/raizel_roms32",
     },
     "spes" : {
         "device" : "Redmi Note 11",
