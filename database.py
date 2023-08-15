@@ -143,7 +143,7 @@ database = {
     "beryllium" : {
         "device" : "Poco F1",
         "maintainer" : "@Excraze",
-        "sgroup" : "https://t.me/baka_hokage_builds_support",
+        "sgroup" : "https://t.me/roms_excraze",
     },
     "whyred" : {
         "device" : "Redmi Note 5 Pro",
@@ -179,5 +179,10 @@ database = {
         "device" : "Xiaomi 11X Pro",
         "maintainer" : "@YuvrajMehta",
         "sgroup" : "https://t.me/HaydnSupport",
+    },
+    "X00TD" : {
+        "device" : "Asus Zenfone Max Pro M1",
+        "maintainer" : "@fakedotkit",
+        "sgroup" : "https://t.me/wzrdgrp",
     }
 }
