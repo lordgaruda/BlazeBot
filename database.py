@@ -132,7 +132,7 @@ database = {
     },
     "x3" : {
         "device" : "Realme X3",
-        "maintainer" : "@A_k_0_5",
+        "maintainer" : "@Ak_jagxz",
         "sgroup" : "https://t.me/Ak_builds",
     },
     "Spacewar" : {
