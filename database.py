@@ -184,5 +184,10 @@ database = {
         "device" : "Asus Zenfone Max Pro M1",
         "maintainer" : "@fakedotkit",
         "sgroup" : "https://t.me/wzrdgrp",
+    },
+    "lisa" : {
+        "device" : "Xiaomi 11 Lite NE 5G",
+        "maintainer" : "@HebrewX",
+        "sgroup" : "https://t.me/HebrewXbuilds",
     }
 }
