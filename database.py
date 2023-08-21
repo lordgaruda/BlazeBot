@@ -167,8 +167,8 @@ database = {
     },
     "kebab" : {
         "device" : "Oneplus 8T",
-        "maintainer" : "@Dawfuk",
-        "sgroup" : "https://t.me/DawfukSpace",
+        "maintainer" : "@twinchin96",
+        "sgroup" : "https://t.me/zahidsromfactory",
     },
     "lemonades" : {
         "device" : "Oneplus 9R",
@@ -189,5 +189,15 @@ database = {
         "device" : "Xiaomi 11 Lite NE 5G",
         "maintainer" : "@HebrewX",
         "sgroup" : "https://t.me/HebrewXbuilds",
+    },
+    "instantnoodle" : {
+        "device" : "Oneplus 8",
+        "maintainer" : "@twinchin96",
+        "sgroup" : "https://t.me/zahidsromfactory",
+    },
+    "instantnoodlep" : {
+        "device" : "Oneplus 8 Pro",
+        "maintainer" : "@twinchin96",
+        "sgroup" : "https://t.me/zahidsromfactory",
     }
 }
