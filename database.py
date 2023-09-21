@@ -199,5 +199,10 @@ database = {
         "device" : "Oneplus 8 Pro",
         "maintainer" : "@twinchin96",
         "sgroup" : "https://t.me/zahidsromfactory",
+    },
+    "X01BD" : {
+        "device" : "Asus Zenfone Max Pro M2",
+        "maintainer" : "@khirendra",
+        "sgroup" : "https://t.me/khirendra",
     }
 }
