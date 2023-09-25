@@ -204,5 +204,10 @@ database = {
         "device" : "Asus Zenfone Max Pro M2",
         "maintainer" : "@khirendra",
         "sgroup" : "https://t.me/playground_zero",
+    },
+    "redwood" : {
+        "device" : "Poco X5 Pro 5G",
+        "maintainer" : "@thepriyanshujangid",
+        "sgroup" : "https://t.me/poco_x5_pro_roms",
     }
 }
