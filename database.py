@@ -209,5 +209,15 @@ database = {
         "device" : "Poco X5 Pro 5G",
         "maintainer" : "@thepriyanshujangid",
         "sgroup" : "https://t.me/poco_x5_pro_roms",
+    },
+    "lunaa" : {
+        "device" : "Realme GT Master Edition",
+        "maintainer" : "@itsXRP",
+        "sgroup" : "https://t.me/blaze_lunaa",
+    },
+    "vili" : {
+        "device" : "Xiaomi 11T Pro",
+        "maintainer" : "@Omar99A",
+        "sgroup" : "https://t.me/ViliSupport",
     }
 }
