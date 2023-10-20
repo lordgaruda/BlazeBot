@@ -39,7 +39,7 @@ message_history = []
 openai.api_key = openai_token
 
 # Official device list
-devurl = "https://raw.githubusercontent.com/ProjectBlaze/vendor_blaze/13/blaze.devices"
+devurl = "https://raw.githubusercontent.com/ProjectBlaze/vendor_blaze/14/blaze.devices"
 gdevurl = "https://github.com/ProjectBlaze/vendor_blaze/blob/14/blaze.devices"
 req = requests.get(devurl)
 if req.status_code in [200]:
