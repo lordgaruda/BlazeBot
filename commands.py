@@ -129,7 +129,7 @@ Please make device changelog file for {codename} <a href="https://github.com/Pro
     year = current_time.year
     date = f" {month}-{day}-{year} "
     mess = f'''
-<strong>Project Blaze v{database['BlazeVersion']} - OFFICIAL | Android 13
+<strong>Project Blaze v{database['BlazeVersion']} - OFFICIAL | Android 14
 📲 : {database[codename]['device']} ({codename})
 📅 : {date}
 🧑‍💼 : {database[codename]['maintainer']}
@@ -141,7 +141,7 @@ Please make device changelog file for {codename} <a href="https://github.com/Pro
 ▪️ <a href="https://t.me/projectblaze" >Community Chat</a>
 ▪️ <a href="https://t.me/projectblazeupdates" >Updates Channel</a>
 
-#Blaze #{codename} #Android13 #T
+#Blaze #{codename} #Android14 #U
 '''
     await context.bot.send_photo(CHAT_ID, photo=open('images/blaze3.0.jpg', 'rb'), caption=mess, reply_to_message_id=mess_id, parse_mode='HTML')
 

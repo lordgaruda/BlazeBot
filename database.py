@@ -219,5 +219,10 @@ database = {
         "device" : "Xiaomi 11T Pro",
         "maintainer" : "@Omar99A",
         "sgroup" : "https://t.me/ViliSupport",
+    },
+    "marble" : {
+        "device" : "Poco F5",
+        "maintainer" : "@AnilShebin",
+        "sgroup" : "https://t.me/Anils_RomHub",
     }
 }
