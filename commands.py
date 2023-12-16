@@ -114,10 +114,10 @@ Please make PR if you didn't.
     else:
         await context.bot.send_message(CHAT_ID, reply_to_message_id=mess_id, text=dmess, parse_mode='HTML', disable_web_page_preview=True)
         return
-    dclog = f"https://raw.githubusercontent.com/ProjectBlaze/official_devices/13/device/{codename}.txt"
+    dclog = f"https://raw.githubusercontent.com/ProjectBlaze/official_devices/14/device/{codename}.txt"
     dcstatus = requests.head(dclog).status_code
     dcmess = f'''
-Please make device changelog file for {codename} <a href="https://github.com/ProjectBlaze/official_devices/tree/13/device">here.</a>
+Please make device changelog file for {codename} <a href="https://github.com/ProjectBlaze/official_devices/tree/14/device">here.</a>
 '''
     if dcstatus == 404:
         await context.bot.send_message(CHAT_ID, reply_to_message_id=mess_id, text=dcmess, parse_mode='HTML', disable_web_page_preview=True)
@@ -134,14 +134,14 @@ Please make device changelog file for {codename} <a href="https://github.com/Pro
 📅 : {date}
 🧑‍💼 : {database[codename]['maintainer']}
 
-▪️ Changelog:</strong> <a href="https://github.com/ProjectBlaze/official_devices/blob/13/changelog.md" >Source</a> | <a href="{dclog}" >Device</a>
+▪️ Changelog:</strong> <a href="https://github.com/ProjectBlaze/official_devices/blob/14/changelog.md" >Source</a> | <a href="{dclog}" >Device</a>
 ▪️ <a href="https://www.projectblaze.in/" >Download</a>
 ▪️ <a href="https://t.me/projectblaze/84841" >Screenshots</a>
 ▪️ <a href="{database[codename]['sgroup']}" >Support Group</a>
 ▪️ <a href="https://t.me/projectblaze" >Community Chat</a>
 ▪️ <a href="https://t.me/projectblazeupdates" >Updates Channel</a>
 
-#Blaze #{codename} #Android14 #U
+#Blaze #{codename} #Android14 #U #Stable
 '''
     await context.bot.send_photo(CHAT_ID, photo=open('images/blaze3.0.jpg', 'rb'), caption=mess, reply_to_message_id=mess_id, parse_mode='HTML')
 
