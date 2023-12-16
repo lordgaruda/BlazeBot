@@ -14,11 +14,11 @@ months = {
 }
 
 database = {
-    "BlazeVersion" : "3.0-BETA",
+    "BlazeVersion" : "3.0",
     "sweet" : {
         "device" : "Redmi Note 10 Pro/Pro Max",
-        "maintainer" : "@aarav_x",
-        "sgroup" : "https://t.me/sweet_paradiseeee",
+        "maintainer" : "@kamleshpatidar",
+        "sgroup" : "https://t.me/kamleshbuilds_sg",
     },
     "onclite" : {
         "device" : "Redmi 7/Y3",
@@ -152,7 +152,7 @@ database = {
     },
     "bitra" : {
         "device" : "Realme GT Neo 2 5G",
-        "maintainer" : "@UNLOK_18",
+        "maintainer" : "@rakmoparte",
         "sgroup" : "https://t.me/Zeus_Projekts_Dis",
     },
     "RMX1851" : {
@@ -212,7 +212,7 @@ database = {
     },
     "lunaa" : {
         "device" : "Realme GT Master Edition",
-        "maintainer" : "@itsXRP",
+        "maintainer" : "@Vimal2607",
         "sgroup" : "https://t.me/blaze_lunaa",
     },
     "vili" : {
