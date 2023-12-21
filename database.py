@@ -102,8 +102,8 @@ database = {
     },
     "RM6785" : {
         "device" : "Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
-        "maintainer" : "@P_AA_ii_N",
-        "sgroup" : "https://t.me/unofficial_PAiNsHUB",
+        "maintainer" : "@EvilAnsh",
+        "sgroup" : "https://t.me/AnshBuilds",
     },
     "lancelot" : {
         "device" : "Redmi 9",
@@ -224,5 +224,10 @@ database = {
         "device" : "Poco F5",
         "maintainer" : "@AnilShebin",
         "sgroup" : "https://t.me/Anils_RomHub",
+    },
+    "fajita" : {
+        "device" : "Oneplus 6T",
+        "maintainer" : "@Legendleo90",
+        "sgroup" : "https://t.me/ak_builds_discussion",
     }
 }
