@@ -207,8 +207,8 @@ database = {
     },
     "redwood" : {
         "device" : "Poco X5 Pro 5G",
-        "maintainer" : "@thepriyanshujangid",
-        "sgroup" : "https://t.me/poco_x5_pro_roms",
+        "maintainer" : "@Thereache",
+        "sgroup" : "https://t.me/thereachebuildchat",
     },
     "lunaa" : {
         "device" : "Realme GT Master Edition",
