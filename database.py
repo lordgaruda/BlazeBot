@@ -229,5 +229,10 @@ database = {
         "device" : "Oneplus 6T",
         "maintainer" : "@Legendleo90",
         "sgroup" : "https://t.me/ak_builds_discussion",
+    },
+    "eqs" : {
+        "device" : "Motorola Edge 30 Ultra 8+ Gen 1",
+        "maintainer" : "@snowey7809",
+        "sgroup" : "https://t.me/nekotalks",
     }
 }
