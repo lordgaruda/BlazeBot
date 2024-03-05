@@ -26,6 +26,9 @@ if __name__ == '__main__':
     # OpenAI
     openai_handler = MessageHandler(filters.TEXT & (~filters.COMMAND), chat)
     application.add_handler(openai_handler)
+    # Chat ID
+    chatid_handler = CommandHandler('chatid', get_chat_id)
+    application.add_handler(chatid_handler)
     # Test
     test_handler = CommandHandler('test', test)
     application.add_handler(test_handler)

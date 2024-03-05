@@ -273,6 +273,14 @@ async def chat(update: Update, context: CallbackContext.DEFAULT_TYPE):
     # Send the AI's response back to the user
     await context.bot.send_message(CHAT_ID, reply_to_message_id=mess_id, text=ai_response)
 
+async def get_chat_id(update: Update, context: CallbackContext.DEFAULT_TYPE):
+    chat_id = str(update.effective_chat.id)
+    mess_id = update.effective_message.message_id
+    mess = f'''
+CHAT_ID = {chat_id} 
+'''
+    await context.bot.send_message(chat_id=chat_id, text=mess)
+
 async def test(update: Update, context: CallbackContext.DEFAULT_TYPE):
     chat_id = str(update.effective_chat.id)
     print(f"Type of chat_id is '{chat_id}'.")
