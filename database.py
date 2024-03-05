@@ -234,5 +234,10 @@ database = {
         "device" : "Motorola Edge 30 Ultra 8+ Gen 1",
         "maintainer" : "@snowey7809",
         "sgroup" : "https://t.me/nekotalks",
+    },
+    "sky" : {
+        "device" : "Redmi 12 5G",
+        "maintainer" : "@Mijumourya",
+        "sgroup" : "https://t.me/mourya_sky_support",
     }
 }
