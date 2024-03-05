@@ -98,7 +98,7 @@ database = {
     "violet" : {
         "device" : "Redmi Note 7 Pro",
         "maintainer" : "@HyperPower17 & @Curious_Nom",
-        "sgroup" : "https://t.me/Unofficial_violet",
+        "sgroup" : "https://t.me/RomCentralHub",
     },
     "RM6785" : {
         "device" : "Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
