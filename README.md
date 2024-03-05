@@ -74,6 +74,7 @@ WARNING : NEVER SHARE THIS FILE WITH ANYONE UNLESS YOU TRUST THEM.
 BOT_TOKEN
 SOURCE_FORGE_PASSWORD
 CHAT_ID
+OPEN_AI_TOKEN
 ```
 
 Bot Token can be brought from Bot Father on Telegram.
@@ -86,6 +87,8 @@ CHAT_ID helps you to restrict bot usage in perticular group. To get CHAT_ID of y
 3. Use command ```/chatid```
 
 Then bot will reply with CHAT_ID.
+
+OPEN_AI_TOKEN only if you want to chat with bot with weird replies. Leave "None" if not reuired.
 
 ## Contact me
 You can contact me using following ways
