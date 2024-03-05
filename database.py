@@ -97,7 +97,7 @@ database = {
     },
     "violet" : {
         "device" : "Redmi Note 7 Pro",
-        "maintainer" : "@HyperPower17",
+        "maintainer" : "@HyperPower17 & @Curious_Nom",
         "sgroup" : "https://t.me/Unofficial_violet",
     },
     "RM6785" : {
@@ -137,8 +137,8 @@ database = {
     },
     "Spacewar" : {
         "device" : "Nothing Phone (1)",
-        "maintainer" : "@dhruvesh_23",
-        "sgroup" : "https://t.me/projectblaze_spacewar",
+        "maintainer" : "@twinchin96",
+        "sgroup" : "https://t.me/zizzynp1roms",
     },
     "beryllium" : {
         "device" : "Poco F1",
