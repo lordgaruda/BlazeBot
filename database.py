@@ -239,5 +239,10 @@ database = {
         "device" : "Redmi 12 5G",
         "maintainer" : "@Mijumourya",
         "sgroup" : "https://t.me/mourya_sky_support",
+    },
+    "davinci" : {
+        "device" : "Redmi K20 & Mi 9T",
+        "maintainer" : "@Jezzay97",
+        "sgroup" : "https://t.me/As_Builds",
     }
 }
