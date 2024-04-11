@@ -249,5 +249,10 @@ database = {
         "device" : "Poco X4 Pro",
         "maintainer" : "ＡＤＩＴＹＡ",
         "sgroup" : "https://t.me/afterallafkbuilds",
+    },
+    "r&o" : {
+        "device" : "Pixel 6 & 6 Pro",
+        "maintainer" : "@prabhat_proxy",
+        "sgroup" : "https://t.me/Proxys_pixels",
     }
 }
