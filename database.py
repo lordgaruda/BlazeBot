@@ -250,7 +250,7 @@ database = {
         "maintainer" : "ＡＤＩＴＹＡ",
         "sgroup" : "https://t.me/afterallafkbuilds",
     },
-    "r&o" : {
+    "raven" : {
         "device" : "Pixel 6 & 6 Pro",
         "maintainer" : "@prabhat_proxy",
         "sgroup" : "https://t.me/Proxys_pixels",
