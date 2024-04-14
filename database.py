@@ -213,7 +213,7 @@ database = {
     "lunaa" : {
         "device" : "Realme GT Master Edition",
         "maintainer" : "@Vimal2607",
-        "sgroup" : "https://t.me/blaze_lunaa",
+        "sgroup" : "https://t.me/vimal_builds",
     },
     "vili" : {
         "device" : "Xiaomi 11T Pro",
