@@ -254,5 +254,10 @@ database = {
         "device" : "Pixel 6 & 6 Pro",
         "maintainer" : "@prabhat_proxy",
         "sgroup" : "https://t.me/Proxys_pixels",
+    },
+    "stone" : {
+        "device" : "Poco X5 5G/Redmi Note 12 5G",
+        "maintainer" : "@Nomishaw",
+        "sgroup" : "https://t.me/Nomi_builds",
     }
 }
