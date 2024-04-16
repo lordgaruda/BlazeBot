@@ -52,8 +52,8 @@ database = {
     },
     "vayu" : {
         "device" : "Poco X3 Pro",
-        "maintainer" : "@Lambada10",
-        "sgroup" : "https://t.me/LambadaOT",
+        "maintainer" : "@GXC2356",
+        "sgroup" : "https://t.me/GXC_discussion",
     },
     "juice" : {
         "device" : "Poco M3/Redmi 9T/Redmi Note 4G/Redmi 9 Power",
