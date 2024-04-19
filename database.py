@@ -37,8 +37,8 @@ database = {
     },
     "surya" : {
         "device" : "POCO X3",
-        "maintainer" : "@Muichir09",
-        "sgroup" : "https://t.me/projectblazesurya",
+        "maintainer" : "@lily985",
+        "sgroup" : "https://t.me/POCOX3_SG",
     },
     "RMX1921" : {
         "device" : "Realme XT",
