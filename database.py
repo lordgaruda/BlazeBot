@@ -279,5 +279,10 @@ database = {
         "device" : "Oneplus 7",
         "maintainer" : "@c00chiemilker",
         "sgroup" : "https://t.me/c00chie_support",
+    },
+    "bluejay" : {
+        "device" : "Pixel 6a",
+        "maintainer" : "@CYB3R0ID694",
+        "sgroup" : "https://t.me/Proxys_pixels",
     }
 }
