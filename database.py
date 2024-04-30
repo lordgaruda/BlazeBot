@@ -173,7 +173,7 @@ database = {
     "lemonades" : {
         "device" : "Oneplus 9R",
         "maintainer" : "@twinchin96",
-        "sgroup" : "https://t.me/zahidromfactory",
+        "sgroup" : "https://t.me/zahidsromfactory",
     },
     "haydn" : {
         "device" : "Xiaomi 11X Pro",
