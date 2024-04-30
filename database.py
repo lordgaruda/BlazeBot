@@ -259,5 +259,25 @@ database = {
         "device" : "Poco X5 5G/Redmi Note 12 5G",
         "maintainer" : "@Nomishaw",
         "sgroup" : "https://t.me/Nomi_builds",
+    },
+    "hotdog" : {
+        "device" : "Oneplus 7T Pro",
+        "maintainer" : "@c00chiemilker",
+        "sgroup" : "https://t.me/c00chie_support",
+    },
+    "hotdogb" : {
+        "device" : "Oneplus 7T",
+        "maintainer" : "@c00chiemilker",
+        "sgroup" : "https://t.me/c00chie_support",
+    },
+    "guacamole" : {
+        "device" : "Oneplus 7 Pro",
+        "maintainer" : "@c00chiemilker",
+        "sgroup" : "https://t.me/c00chie_support",
+    },
+    "guacamoleb" : {
+        "device" : "Oneplus 7",
+        "maintainer" : "@c00chiemilker",
+        "sgroup" : "https://t.me/c00chie_support",
     }
 }
