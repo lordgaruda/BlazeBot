@@ -150,10 +150,10 @@ database = {
         "maintainer" : "@Mizugameza05",
         "sgroup" : "https://t.me/MizoWhyred",
     },
-    "bitra" : {
-        "device" : "Realme GT Neo 2 5G",
+    "ferrarri" : {
+        "device" : "Realme GT 2 Pro",
         "maintainer" : "@rakmoparte",
-        "sgroup" : "https://t.me/Zeus_Projekts_Dis",
+        "sgroup" : "https://t.me/Machad3xROMS",
     },
     "RMX1851" : {
         "device" : "Realme 3 Pro",
