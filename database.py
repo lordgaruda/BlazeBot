@@ -284,5 +284,10 @@ database = {
         "device" : "Pixel 6a",
         "maintainer" : "@CYB3R0ID694",
         "sgroup" : "https://t.me/Proxys_pixels",
+    },
+    "cepheus" : {
+        "device" : "Mi 9",
+        "maintainer" : "@RDS_07",
+        "sgroup" : "https://t.me/Swaggers_builds",
     }
 }
