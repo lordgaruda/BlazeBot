@@ -14,7 +14,7 @@ months = {
 }
 
 database = {
-    "BlazeVersion" : "3.3",
+    "BlazeVersion" : "3.4",
     "sweet" : {
         "device" : "Redmi Note 10 Pro/Pro Max",
         "maintainer" : "@kamleshpatidar",
@@ -92,8 +92,8 @@ database = {
     },
     "raphael" : {
         "device" : "Redmi K20 Pro / MI 9T Pro",
-        "maintainer" : "@pbharadwaj_95",
-        "sgroup" : "https://t.me/octavi_sweet_raphael",
+        "maintainer" : "@Ralf979",
+        "sgroup" : "https://t.me/ralf979street",
     },
     "violet" : {
         "device" : "Redmi Note 7 Pro",
