@@ -289,5 +289,10 @@ database = {
         "device" : "Mi 9",
         "maintainer" : "@RDS_07",
         "sgroup" : "https://t.me/Swaggers_builds",
+    },
+    "sweet2" : {
+        "device" : "Redmi Note 12 Pro 4G",
+        "maintainer" : "@kamleshpatidar",
+        "sgroup" : "https://t.me/kamleshbuilds_sg",
     }
 }
