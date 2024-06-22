@@ -44,18 +44,18 @@ def post_changelog_message(codename):
 Please make device changelog file for {codename} <a href="https://github.com/ProjectBlaze/official_devices/tree/14/device">here.</a>
 '''
     return changelog
-    
+
 def post_message(codename, database, date, dclog):
     post = f'''
 #Blaze #{codename} #Android14 #U #Stable
-<strong>Project Blaze v{database['BlazeVersion']} - OFFICIAL | Android 14
+<strong>Project Blaze v{database['BlazeVersion']} - OFFICIAL | Android 14 | QPR3
 📲 : {database[codename]['device']} ({codename})
 📅 : {date}
 🧑‍💼 : {database[codename]['maintainer']}
 
 ▪️ Changelog:</strong> <a href="https://github.com/ProjectBlaze/official_devices/blob/14/changelog.md" >Source</a> | <a href="{dclog}" >Device</a>
 ▪️ <a href="https://www.projectblaze.in/" >Download</a>
-▪️ <a href="https://t.me/projectblaze/107881" >Screenshots</a>
+▪️ <a href="https://t.me/projectblaze/110190" >Screenshots</a>
 ▪️ <a href="{database[codename]['sgroup']}" >Support Group</a>
 ▪️ <a href="https://t.me/projectblaze" >Community Chat</a>
 ▪️ <a href="https://t.me/projectblazeupdates" >Updates Channel</a>
