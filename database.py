@@ -247,8 +247,8 @@ database = {
     },
     "veux" : {
         "device" : "Poco X4 Pro",
-        "maintainer" : "ＡＤＩＴＹＡ",
-        "sgroup" : "https://t.me/afterallafkbuilds",
+        "maintainer" : "@RexMiller07",
+        "sgroup" : "https://t.me/rex_builds_veux",
     },
     "raven" : {
         "device" : "Pixel 6 & 6 Pro",
