@@ -44,8 +44,8 @@ message_history = []
 
 
 # Official device list
-devurl = "https://raw.githubusercontent.com/ProjectBlaze/vendor_blaze/14-QPR2/config/blaze.devices"
-gdevurl = "https://github.com/ProjectBlaze/vendor_blaze/blob/14-QPR2/config/blaze.devices"
+devurl = "https://raw.githubusercontent.com/ProjectBlaze/vendor_blaze/14-QPR3/config/blaze.devices"
+gdevurl = "https://github.com/ProjectBlaze/vendor_blaze/blob/14-QPR3/config/blaze.devices"
 req = requests.get(devurl)
 
 if req.status_code in [200]:
