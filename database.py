@@ -230,10 +230,10 @@ database = {
         "maintainer" : "@Legendleo90",
         "sgroup" : "https://t.me/ak_builds_discussion",
     },
-    "eqs" : {
-        "device" : "Motorola Edge 30 Ultra 8+ Gen 1",
-        "maintainer" : "@snowey7809",
-        "sgroup" : "https://t.me/nekotalks",
+    "garnet" : {
+        "device" : "Redmi Note 13 Pro 5G & Poco X6 5G",
+        "maintainer" : "@PriQue77",
+        "sgroup" : "https://t.me/blazegarnet",
     },
     "sky" : {
         "device" : "Redmi 12 5G",
