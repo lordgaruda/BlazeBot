@@ -71,9 +71,9 @@ database = {
         "sgroup" : "https://t.me/ProjectBlazeGinkgo",
     },
     "alioth" : {
-        "device" : "Poco F3 / Mi 11x / Redmi K40",
-        "maintainer" : "@Chaitanyakm",
-        "sgroup" : "https://t.me/chaitanyabuilds",
+        "device" : "Poco F3 / Mi 11X / Redmi K40",
+        "maintainer" : "@SanjiVns",
+        "sgroup" : "https://t.me/sanjissupport",
     },
     "ysl" : {
         "device" : "Redmi Y2/S2",
