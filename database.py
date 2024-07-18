@@ -187,8 +187,8 @@ database = {
     },
     "lisa" : {
         "device" : "Xiaomi 11 Lite NE 5G",
-        "maintainer" : "@HebrewX",
-        "sgroup" : "https://t.me/HebrewXbuilds",
+        "maintainer" : "@zaidkhan0997",
+        "sgroup" : "https://t.me/zaidbuild",
     },
     "instantnoodle" : {
         "device" : "Oneplus 8",
