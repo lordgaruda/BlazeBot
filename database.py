@@ -137,8 +137,8 @@ database = {
     },
     "Spacewar" : {
         "device" : "Nothing Phone (1)",
-        "maintainer" : "@twinchin96",
-        "sgroup" : "https://t.me/zizzynp1roms",
+        "maintainer" : "@dhruvesh_23",
+        "sgroup" : "https://t.me/projectblaze_spacewar",
     },
     "beryllium" : {
         "device" : "Poco F1",
