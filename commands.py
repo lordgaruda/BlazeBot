@@ -23,17 +23,11 @@ import datetime
 import pytz
 # import openai
 
-
-# Some Global Variables
-HOME = os.path.expanduser("~")
-
-with open(f'{HOME}/secrets.txt', 'r') as file:
-    content = file.read().replace('\n', ',')
-    content = content.split(',')
-    token = content[0]
-    sfpass = content[1]
-    CHAT_ID = content[2]
-    openai_token = content[3]
+# Fetch secrets from environment variables
+token = os.getenv('TELEGRAM_TOKEN')
+sfpass = os.getenv('SOURCEFORGE_PASSWORD')
+CHAT_ID = os.getenv('CHAT_ID')
+openai_token = os.getenv('OPENAI_TOKEN')
 
 TELEGRAM_BOT_USERNAME = 'ProjectBlazeBot'
 message_history = []
