@@ -1,2 +1,1 @@
-worker: python blazebot.py
-web: python web/wserver.py
+web: python blazebot.py & python web/wserver.py
